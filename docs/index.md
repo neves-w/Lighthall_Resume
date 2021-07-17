@@ -2,6 +2,7 @@
 layout: cv
 title: Brigham Young's Resume
 ---
+<!-- Great job, bro! Last week, hang in there -->
 # Christopher Lighthall
 Supply Chain Major with Data Science skills
 
@@ -18,6 +19,7 @@ Supply Chain Major with Data Science skills
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+<!-- Great GPA! Show it off! -->
 - 3.92  GPA Bachelor's in Business Management: Operations with Data Science Certificate
 
 
@@ -68,6 +70,7 @@ __MELALEUCA: THE WELLNESS COMPANY__, Customer Service Representative
 
 ## Service and Work History
 
+<!-- If you want, you can specify what you did in a manner to endorse leadership and soft skills you have -->
 `2016-2018`
 __Service Missionary__, South of Concepción, Chile
 
